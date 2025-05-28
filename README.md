@@ -55,7 +55,7 @@ conda env create -f environment.yml
  ```  
 conda activate srganenv_gpu
 ```
-5. Install PyTorch (select one based on your system):
+4. Install PyTorch (select one based on your system):
    
 For GPU:
 ```
